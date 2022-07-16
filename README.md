@@ -1,2 +1,2 @@
-# codewars-kata-
-Posting my solutions for Codewars kata in Python
+# 8kyu 
+My solutions for 8kyu Codewars kata in Python
