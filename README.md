@@ -1,2 +1,2 @@
 # codewars-kata-
-Posting my solutions for codewars kata in python
+Posting my solutions for Codewars kata in Python
